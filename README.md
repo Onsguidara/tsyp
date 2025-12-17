@@ -12,8 +12,8 @@ for visualization, alerts, and data explor .
 ---
 
 ## 🧠 AI Models link :
-👉[ https://drive.google.com/your-models-link-here](https://drive.google.com/drive/folders/1kV5WQcSHDzd6yFjxKFjOfejmlamCwVhO?usp=sharing)
+👉https://drive.google.com/drive/folders/1kV5WQcSHDzd6yFjxKFjOfejmlamCwVhO?usp=sharing
 
 ## 📱 Application link :
-👉 [https://drive.google.com/your-models-link-here](https://drive.google.com/drive/folders/1d8OfYvReQYHXChVTvKjehJV1LjSNRXbq?usp=sharing)
+👉 https://drive.google.com/drive/folders/1d8OfYvReQYHXChVTvKjehJV1LjSNRXbq?usp=sharing
 ---
